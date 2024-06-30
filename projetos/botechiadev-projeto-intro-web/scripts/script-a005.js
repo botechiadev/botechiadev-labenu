@@ -39,7 +39,7 @@ console.log(typeof petCheck)
 console.log(typeof nomeDoPet)
 
 
-let money = Number(prompt("Quando de granda você tem"))
+let money = Number(prompt("Quando de grana você tem"))
 let resposta = money + 10
 console.log(resposta)
 
