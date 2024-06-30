@@ -194,7 +194,7 @@ function App() {
     },
   ]);
 
-  const [nome, setNome] = "Bananinha";
+  const [nome, setNome] = "CONWAY";
 
   const olaMundo = () => {
     alert("OLÁ MUNDO");
